@@ -29,8 +29,15 @@ I'm a 16-year-old student and software developer from Ukraine, passionate about 
 * 🗄️ Relational databases management (PostgreSQL & SQLite).
 
 ---
-📊 GitHub Stats:
-<img src="https://camo.githubusercontent.com/677fafada3628677684469e8b8b6649ef18cea7e4a4e1e3494ec7f7d17662e7c/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170693f757365726e616d653d6472697a7a7931373732267468656d653d6d6f6e6f6b616926686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365"
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmitrovojtovic23-lab&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="Dima's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrovojtovic23-lab&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Connect with me
