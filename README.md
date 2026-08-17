@@ -32,6 +32,7 @@ I'm a 16-year-old student and software developer from Ukraine, passionate about 
 ## My GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dmitrovojtovic23-lab&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrovojtovic23-lab)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📫 Connect with me
