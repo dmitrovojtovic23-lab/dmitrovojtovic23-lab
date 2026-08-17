@@ -30,10 +30,14 @@ I'm a 16-year-old student and software developer from Ukraine, passionate about 
 
 ---
 
-### 📊 GitHub Activity
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dmitrovojtovic23-lab&theme=tokyonight&hide_border=true&radius=10&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ваш_нікнейм/ваш_нікнейм/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ваш_нікнейм/ваш_нікнейм/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ваш_нікнейм/ваш_нікнейм/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
