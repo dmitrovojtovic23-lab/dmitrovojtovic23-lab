@@ -32,11 +32,11 @@ I'm a 16-year-old student and software developer from Ukraine, passionate about 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmitrovojtovic23-lab&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="Dima's Stats" />
+  <img src="https://metrics.lecoq.io/api?template=classic&user=dmitrovojtovic23-lab&base=header&hide=stars,followup&isdn=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrovojtovic23-lab&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/api?template=classic&user=dmitrovojtovic23-lab&base=languages&languages_limit=8&languages_sections=most-used&languages_colors=github" alt="Top Languages" />
 </p>
 ---
 
