@@ -1,10 +1,10 @@
 ### Hi there! I'm Dima 👋 
 
-I'm a 16-year-old student and aspiring developer from Ukraine, currently exploring the endless universe of code, building cool projects, and turning caffeine into clean software. 🚀
+<I'm a 16-year-old student and software developer from Ukraine, passionate about building robust systems, backend development, and low-level programming.>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🛠️ Tech Stack & Systems
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -18,16 +18,20 @@ I'm a 16-year-old student and aspiring developer from Ukraine, currently explori
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 What I'm working on
+* 💻 Developing backend systems, custom protocols, and exploring core computer science concepts.
+* ⚡ Writing efficient code in C++ and C#.
+* 🗄️ Working with relational databases like PostgreSQL.
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ваш_нікнейм&theme=tokyonight&no_frame=true&no_bg=true" alt="Dima's Trophies" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=dmitrovojtovic23-lab&theme=tokyonight&hide_border=true&radius=10&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
 </p>
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ваш_нікнейм&theme=tokyonight&hide_border=true&radius=10" alt="Activity Graph" />
-</p>
+### 📫 Connect with me
+* GitHub: [@dmitrovojtovic23-lab](https://github.com/ваш_нікнейм)
