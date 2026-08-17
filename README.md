@@ -26,7 +26,7 @@ I'm a 16-year-old student and software developer from Ukraine, passionate about 
 * 💻 Developing backend systems, web applications, and exploring core computer science concepts.
 * ⚡ Writing efficient code in C++, C#, and Python (Django).
 * 🐳 Containerizing apps with Docker and deploying/exploring cloud services like AWS.
-* 🗄️ Managing relational databases (PostgreSQL & SQLite).
+* 🗄️ Relational databases management (PostgreSQL & SQLite).
 
 ---
 
@@ -39,4 +39,5 @@ I'm a 16-year-old student and software developer from Ukraine, passionate about 
 ---
 
 ### 📫 Connect with me
-* GitHub: [dmitrovojtovic23-lab](https://github.com/dmitrovojtovic23-lab)
+* 🐈 **GitHub:** [dmitrovojtovic23-lab](https://github.com/dmitrovojtovic23-lab)
+* 📧 **Email:** `dmitrovojtovic23@gmail.com`
