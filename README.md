@@ -34,4 +34,4 @@
 ---
 
 ### 📫 Connect with me
-* GitHub: [@dmitrovojtovic23-lab](https://github.com/ваш_нікнейм)
+* GitHub: [dmitrovojtovic23-lab](https://github.com/dmitrovojtovic23-lab)
